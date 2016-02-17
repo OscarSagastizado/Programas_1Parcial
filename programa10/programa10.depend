@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454427504 source:c:\users\samsung\desktop\oscar unitec\prograsis\programa10\main.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
